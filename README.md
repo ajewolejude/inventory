@@ -74,9 +74,9 @@ li{
 
 <div class="main">
  <center> <img id ="start" src = "./assests/images/tph.png" height="300px" width="300px" alt ="logo"/></center>
-  <h2 >Welcome to HOF E-INVENTORY SYSTEM DOCUMENTATION</h2>
+  <h2 >Welcome to  E-INVENTORY SYSTEM DOCUMENTATION</h2>
   <h2  id="about">About</h2>
-  <p>This software represents an online inventory system for the department of I.T, HOF. This software provides inventory associated benefits such as : </p>
+  <p>This software represents an online inventory system for the department of I.T. This software provides inventory associated benefits such as : </p>
   <ul>
     <li>
       To add, update, and remove assets.
@@ -189,7 +189,7 @@ li{
   <img src = "./assests/images/doc/guest.png" class = "doc" alt ="asset"/>
   <br>
   <h2  id="contri" >Contribute</h2>
-   <p>To contribute mail us on web@thispresenthouse.org</p>
+   <p>To contribute mail us on adedamolaajewole@gmail.com</p>
  
   <footer class='footer'>
       <div class='footerContent'>
