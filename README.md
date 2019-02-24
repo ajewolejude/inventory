@@ -4,55 +4,7 @@ This software represents an online inventory system for the department of I.T, i
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-    font-family: "Lato", sans-serif;
-}
 
-.sidenav {
-    height: 100%;
-    width: 160px;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: #111;
-    overflow-x: hidden;
-    padding-top: 20px;
-}
-
-.sidenav a {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 25px;
-    color: #818181;
-    display: block;
-}
-
-.sidenav a:hover {
-    color: #f1f1f1;
-}
-
-.main {
-    margin-left: 160px; /* Same as the width of the sidenav */
-    font-size: 28px; /* Increased text to enable scrolling */
-    padding: 0px 10px;
-}
-.doc{
-  height: 80%;
-  width: 80%;
-}
-@media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
-}
-p{
-  font-size: 20px;
-}
-li{
-  font-size: 15px;
-}
-</style>
 </head>
 <body>
 
@@ -73,7 +25,6 @@ li{
 </div>
 
 <div class="main">
- <center> <img id ="start" src = "./assests/images/tph.png" height="300px" width="300px" alt ="logo"/></center>
   <h2 >Welcome to  E-INVENTORY SYSTEM DOCUMENTATION</h2>
   <h2  id="about">About</h2>
   <p>This software represents an online inventory system for the department of I.T. This software provides inventory associated benefits such as : </p>
