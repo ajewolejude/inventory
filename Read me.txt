@@ -1,0 +1,13 @@
+This software represents an online inventory system for the department of I.T, in any organization. This software provides inventory associated benefits such as :
+
+To add, update, and remove assets.
+To add, update, and emove consumables.
+To add, update, and remove requests for assets
+To monitor what consumable being used by what asset.
+To monitor who is with which asset in the organization.
+To monitor asset flow within the organization.
+To provide ability to easily query the system.
+To provide a solution to perfect non-repudiation of asset
+To print user requests.
+And a lot of other interesting benefit.
+
